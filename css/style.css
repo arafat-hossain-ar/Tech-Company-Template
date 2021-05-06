@@ -6,10 +6,9 @@ body {
     color: #797979;
     background: #ffffff;
     font-family: 'Montserrat', sans-serif;
-    background-color: #ffffff;
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2000 1500'%3E%3Cdefs%3E%3Crect stroke='%23ffffff' stroke-width='.5' width='1' height='1' id='s'/%3E%3Cpattern id='a' width='3' height='3' patternUnits='userSpaceOnUse' patternTransform='scale(50) translate(-980 -735)'%3E%3Cuse fill='%23fafafa' href='%23s' y='2'/%3E%3Cuse fill='%23fafafa' href='%23s' x='1' y='2'/%3E%3Cuse fill='%23f5f5f5' href='%23s' x='2' y='2'/%3E%3Cuse fill='%23f5f5f5' href='%23s'/%3E%3Cuse fill='%23f0f0f0' href='%23s' x='2'/%3E%3Cuse fill='%23f0f0f0' href='%23s' x='1' y='1'/%3E%3C/pattern%3E%3Cpattern id='b' width='7' height='11' patternUnits='userSpaceOnUse' patternTransform='scale(50) translate(-980 -735)'%3E%3Cg fill='%23ebebeb'%3E%3Cuse href='%23s'/%3E%3Cuse href='%23s' y='5' /%3E%3Cuse href='%23s' x='1' y='10'/%3E%3Cuse href='%23s' x='2' y='1'/%3E%3Cuse href='%23s' x='2' y='4'/%3E%3Cuse href='%23s' x='3' y='8'/%3E%3Cuse href='%23s' x='4' y='3'/%3E%3Cuse href='%23s' x='4' y='7'/%3E%3Cuse href='%23s' x='5' y='2'/%3E%3Cuse href='%23s' x='5' y='6'/%3E%3Cuse href='%23s' x='6' y='9'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='h' width='5' height='13' patternUnits='userSpaceOnUse' patternTransform='scale(50) translate(-980 -735)'%3E%3Cg fill='%23ebebeb'%3E%3Cuse href='%23s' y='5'/%3E%3Cuse href='%23s' y='8'/%3E%3Cuse href='%23s' x='1' y='1'/%3E%3Cuse href='%23s' x='1' y='9'/%3E%3Cuse href='%23s' x='1' y='12'/%3E%3Cuse href='%23s' x='2'/%3E%3Cuse href='%23s' x='2' y='4'/%3E%3Cuse href='%23s' x='3' y='2'/%3E%3Cuse href='%23s' x='3' y='6'/%3E%3Cuse href='%23s' x='3' y='11'/%3E%3Cuse href='%23s' x='4' y='3'/%3E%3Cuse href='%23s' x='4' y='7'/%3E%3Cuse href='%23s' x='4' y='10'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='c' width='17' height='13' patternUnits='userSpaceOnUse' patternTransform='scale(50) translate(-980 -735)'%3E%3Cg fill='%23e5e5e5'%3E%3Cuse href='%23s' y='11'/%3E%3Cuse href='%23s' x='2' y='9'/%3E%3Cuse href='%23s' x='5' y='12'/%3E%3Cuse href='%23s' x='9' y='4'/%3E%3Cuse href='%23s' x='12' y='1'/%3E%3Cuse href='%23s' x='16' y='6'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='d' width='19' height='17' patternUnits='userSpaceOnUse' patternTransform='scale(50) translate(-980 -735)'%3E%3Cg fill='%23ffffff'%3E%3Cuse href='%23s' y='9'/%3E%3Cuse href='%23s' x='16' y='5'/%3E%3Cuse href='%23s' x='14' y='2'/%3E%3Cuse href='%23s' x='11' y='11'/%3E%3Cuse href='%23s' x='6' y='14'/%3E%3C/g%3E%3Cg fill='%23e0e0e0'%3E%3Cuse href='%23s' x='3' y='13'/%3E%3Cuse href='%23s' x='9' y='7'/%3E%3Cuse href='%23s' x='13' y='10'/%3E%3Cuse href='%23s' x='15' y='4'/%3E%3Cuse href='%23s' x='18' y='1'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='e' width='47' height='53' patternUnits='userSpaceOnUse' patternTransform='scale(50) translate(-980 -735)'%3E%3Cg fill='%23F60'%3E%3Cuse href='%23s' x='2' y='5'/%3E%3Cuse href='%23s' x='16' y='38'/%3E%3Cuse href='%23s' x='46' y='42'/%3E%3Cuse href='%23s' x='29' y='20'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='f' width='59' height='71' patternUnits='userSpaceOnUse' patternTransform='scale(50) translate(-980 -735)'%3E%3Cg fill='%23F60'%3E%3Cuse href='%23s' x='33' y='13'/%3E%3Cuse href='%23s' x='27' y='54'/%3E%3Cuse href='%23s' x='55' y='55'/%3E%3C/g%3E%3C/pattern%3E%3Cpattern id='g' width='139' height='97' patternUnits='userSpaceOnUse' patternTransform='scale(50) translate(-980 -735)'%3E%3Cg fill='%23F60'%3E%3Cuse href='%23s' x='11' y='8'/%3E%3Cuse href='%23s' x='51' y='13'/%3E%3Cuse href='%23s' x='17' y='73'/%3E%3Cuse href='%23s' x='99' y='57'/%3E%3C/g%3E%3C/pattern%3E%3C/defs%3E%3Crect fill='url(%23a)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23b)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23h)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23c)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23d)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23e)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23f)' width='100%25' height='100%25'/%3E%3Crect fill='url(%23g)' width='100%25' height='100%25'/%3E%3C/svg%3E");
-    background-attachment: fixed;
-    background-size: cover;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cg stroke='%23CCC' stroke-width='0' %3E%3Crect fill='%23F5F5F5' x='-60' y='-60' width='110' height='240'/%3E%3C/g%3E%3C/svg%3E");
+    scroll-behavior: smooth;
+    
 }
 
 h1,
@@ -138,10 +137,12 @@ a:focus {
 /**********************************/
 /*********** Nav Bar CSS **********/
 /**********************************/
+
 .navbar {
     position: relative;
     transition: .5s;
     z-index: 999;
+    background: #ffffff62 !important;
 }
 
 .navbar.nav-sticky {
@@ -177,8 +178,8 @@ a:focus {
     .navbar {
         position: absolute;
         width: 100%;
-        padding: 30px 60px;
-        background: transparent !important;
+        padding: 20px 30px;
+        background: #ffffff62 !important;
         border-bottom: 1px dashed rgba(256, 256, 256, .2);
         z-index: 9;
     }
@@ -252,12 +253,8 @@ a:focus {
     position: relative;
     width: 100%;
     margin-bottom: 45px;
-    padding: 120px 0 0 0;
     overflow: hidden;
-    background: linear-gradient(rgba(113, 141, 235, 0.8), rgba(113, 141, 235, 0.8)), url(../img/hero-bg.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background: linear-gradient(rgba(113, 141, 235, 0.2), rgba(113, 141, 235, 0.2));
     height: 100vh;
 }
 
@@ -266,19 +263,26 @@ a:focus {
 }
 
 .hero .hero-image {
-    position: relative;
-    text-align: right;
-    padding-right: 75px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    z-index: -1;
 }
 
-.hero .hero-image img {
-    max-width: 80%;
-    max-height: 80%;
+.hero .hero-image {
+    width: 100%;
+    height: 100vh;
 }
-
+.carousel-inner img {
+    width: 100%;
+    height: 100vh;
+}
+.carousel-caption h3{
+    color: white;
+}
 .hero .hero-content {
     position: relative;
-    padding-left: 75px;
+    /* padding-left: 75px; */
     display: flex;
     align-items: flex-start;
     justify-content: center;
@@ -455,10 +459,7 @@ a:focus {
 /*******************************/
 /********** About CSS **********/
 /*******************************/
-.about {
-    position: relative;
-    width: 100%;
-    /* margin: 45px 0 45px 0; */
+.a
 }
 
 .about .col-lg-6 {
@@ -533,181 +534,6 @@ a:focus {
 }
 
 
-/*******************************/
-/******* Experience CSS ********/
-/*******************************/
-.experience {
-    position: relative;
-    padding: 45px 0 15px 0;
-}
-
-.experience .timeline {
-    position: relative;
-    width: 100%;
-}
-
-.experience .timeline::after {
-    content: '';
-    position: absolute;
-    width: 2px;
-    background: rgb(85, 124, 255);
-    top: 0;
-    bottom: 0;
-    left: 50%;
-    margin-left: -1px;
-}
-
-.experience .timeline .timeline-item {
-    position: relative;
-    background: inherit;
-    width: 50%;
-    margin-bottom: 30px;
-}
-
-.experience .timeline .timeline-item.left {
-    left: 0;
-    padding-right: 30px;
-}
-
-.experience .timeline .timeline-item.right {
-    left: 50%;
-    padding-left: 30px;
-}
-
-.experience .timeline .timeline-item::after {
-    content: '';
-    position: absolute;
-    width: 16px;
-    height: 16px;
-    top: 48px;
-    right: -8px;
-    background: #ffffff;
-    border: 2px solid rgb(85, 124, 255);
-    border-radius: 16px;
-    z-index: 1;
-}
-
-.experience .timeline .timeline-item.right::after {
-    left: -8px;
-}
-
-.experience .timeline .timeline-item::before {
-  content: '';
-  position: absolute;
-  width: 0;
-  height: 0;
-  top: 46px;
-  right: 10px;
-  z-index: 1;
-  border: 10px solid;
-  border-color: transparent transparent transparent #dddddd;
-}
-
-.experience .timeline .timeline-item.right::before {
-  left: 10px;
-  border-color: transparent #dddddd transparent transparent;
-}
-
-.experience .timeline .timeline-date {
-    position: absolute;
-    width: 100%;
-    top: 44px;
-    font-size: 16px;
-    font-weight: 600;
-    color: rgb(85, 124, 255);
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    z-index: 1;
-}
-
-.experience .timeline .timeline-item.left .timeline-date {
-    text-align: left;
-    left: calc(100% + 55px);
-}
-
-.experience .timeline .timeline-item.right .timeline-date {
-    text-align: right;
-    right: calc(100% + 55px);
-}
-
-.experience .timeline .timeline-text {
-    padding: 30px;
-    background: #ffffff;
-    position: relative;
-    border-right: 5px solid #dddddd;
-    box-shadow: 0 0 60px rgba(0, 0, 0, .08);
-}
-
-.experience .timeline .timeline-item.right .timeline-text {
-    border-right: none;
-    border-left: 5px solid #dddddd;
-}
-
-.experience .timeline .timeline-text h2 {
-    margin: 0 0 5px 0;
-    font-size: 22px;
-    font-weight: 600;
-}
-
-.experience .timeline .timeline-text h4 {
-    margin: 0 0 10px 0;
-    font-size: 16px;
-    font-style: italic;
-    font-weight: 400;
-}
-
-.experience .timeline .timeline-text p {
-    margin: 0;
-    font-size: 16px;
-}
-
-@media (max-width: 767.98px) {
-    .experience .timeline::after {
-        left: 8px;
-    }
-
-    .experience .timeline .timeline-item {
-        width: 100%;
-        padding-left: 38px;
-    }
-    
-    .experience .timeline .timeline-item.left {
-        padding-right: 0;
-    }
-    
-    .experience .timeline .timeline-item.right {
-        left: 0%;
-        padding-left: 38px;
-    }
-
-    .experience .timeline .timeline-item.left::after, 
-    .experience .timeline .timeline-item.right::after {
-        left: 0;
-    }
-    
-    .experience .timeline .timeline-item.left::before,
-    .experience .timeline .timeline-item.right::before {
-        left: 18px;
-        border-color: transparent #dddddd transparent transparent;
-    }
-    
-    .experience .timeline .timeline-item.left .timeline-date,
-    .experience .timeline .timeline-item.right .timeline-date {
-        position: relative;
-        top: 0;
-        right: auto;
-        left: 0;
-        text-align: left;
-        margin-bottom: 10px;
-    }
-    
-    .experience .timeline .timeline-item.left .timeline-text,
-    .experience .timeline .timeline-item.right .timeline-text {
-        border-right: none;
-        border-left: 5px solid #dddddd;
-    }
-}
-
 
 /*******************************/
 /********* Service CSS *********/
@@ -721,41 +547,52 @@ a:focus {
 .service .service-item {
     position: relative;
     margin-bottom: 30px;
-    display: flex;
-    align-items: center;
-    box-shadow: inset 0 0 0 0 transparent;
+    background-color: white;
+    padding: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.103);
     transition: ease-out 0.5s;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    background-color: white;
+    margin: 20px 10px;
+    padding: 20px 0px;
 }
 
-.service .service-item:hover {
-    box-shadow: inset 800px 0 0 0 rgb(85, 124, 255);
-}
 
 .service .service-icon {
     position: relative;
-    width: 150px;
-    min-height: 150px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 1px solid rgb(85, 124, 255);
     background: #ffffff;
+    margin: 0 auto;
+    width: 120px;
+    min-height: 120px;
+    border-radius: 50%;
+    margin-bottom: 10px;
 }
 
 .service .service-icon i {
     position: relative;
     font-size: 60px;
+    width: 120px;
+    min-height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 50%;
     color: rgb(85, 124, 255);
     transition: .3s;
+    border: 1px solid rgb(85, 124, 255);
+
 }
 
 .service .service-item:hover i {
-    font-size: 75px;
+    font-size: 70px;
+    background-color: white;
 }
 
 .service .service-text {
     position: relative;
-    width: calc(100% - 120px);
     padding: 0 30px;
 }
 
@@ -771,10 +608,14 @@ a:focus {
     font-size: 16px;
     transition: 1s;
 }
+.service .service-item:hover,
+.service .service-icon:hover{
+    background-color: rgb(85, 124, 255);
 
+}
 .service .service-item:hover .service-text h3,
 .service .service-item:hover .service-text p {
-    color: #ffffff;
+    color: white;
 }
 
 @media (max-width: 575.98px) {
@@ -1073,6 +914,7 @@ a:focus {
 }
 
 
+
 /*******************************/
 /*********** Team CSS **********/
 /*******************************/
@@ -1358,32 +1200,6 @@ a:focus {
     width: 40px;
   }
   
-  /* #contact {
-    position: relative;
-    overflow: hidden;
-  }
-  
-  #contact #contactForm {
-    margin-top: 30px;
-  }
-  
-  .text-danger {
-    font-size: 14px;
-    margin-top: 10px;
-  }
-  
-  
-  #conatiner-map {
-    margin-top: 30px;
-    text-align: center;
-    background-color: #fff;
-    height: 370px;
-    -webkit-transition: all 0.3s;
-    -moz-transition: all 0.3s;
-    transition: all 0.3s;
-    z-index: 101;
-    width: 100%;
-  } */
 
 .submit-button .btn {
     margin-top: 15px;
@@ -1412,6 +1228,7 @@ a:focus {
 .blog .blog-item {
     position: relative;
     margin-bottom: 30px;
+    background-color: white;
 }
 
 .blog .blog-img {
@@ -1422,6 +1239,7 @@ a:focus {
 
 .blog .blog-img img {
     width: 100%;
+    height: 350px;
     transition: .5s;
 }
 
